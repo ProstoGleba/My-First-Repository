@@ -1,0 +1,5 @@
+// A JS* Code (* - JavaScript)
+var pass0 = prompt("Enter a password: ");
+var passyesno = confirm("Are you sure you want to leave such a password: " + pass0 + "?");
+print("Critical Error!");
+break;
